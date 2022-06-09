@@ -1,0 +1,1262 @@
+{"name": "doc|VOID",
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "10000|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "pos1|INT",
+"children":[
+]}
+,
+{"name": "pos2|INT",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "pos1|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "pos1|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "pos2|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "pos2|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "InsertionSort|VOID",
+"children":[
+{"name": "offset|INT",
+"children":[
+]}
+,
+{"name": "N|INT",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+,
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "loop|for",
+"children":[
+{"name": "=|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "1|INT",
+"children":[
+]}
+,
+{"name": "offset|INT",
+"children":[
+]}
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LS|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "N|INT",
+"children":[
+]}
+,
+{"name": "offset|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "temp|INT",
+"children":[
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "loop|for",
+"children":[
+{"name": "=|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "i|INT",
+"children":[
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "AND|INT",
+"children":[
+{"name": "GR|INT",
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "0|INT",
+"children":[
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "GR|INT",
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "SUB|INT",
+=======
+=======
+>>>>>>> parent of f7a5313 (delete old file)
+{"name": "binary|INT",
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "binary|INT",
+<<<<<<< HEAD
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+,
+{"name": "[]|INT",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "Median3|INT",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "Center|INT",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "DIV|INT",
+"children":[
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+,
+{"name": "2|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "GR|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "Center|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Center|INT",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "GR|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "GR|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "Center|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "Center|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "Center|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "ret|INT",
+"children":[
+{"name": "[]|INT",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "QSort|VOID",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "Pivot|INT",
+"children":[
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LE|INT",
+"children":[
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "3|INT",
+"children":[
+]}
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "Pivot|INT",
+"children":[
+]}
+,
+{"name": "Median3|INT",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "Left|INT",
+"children":[
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "loop|while",
+"children":[
+{"name": "1|INT",
+"children":[
+]}
+,
+{"name": "loop|while",
+"children":[
+{"name": "1|INT",
+"children":[
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LE|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Pivot|INT",
+"children":[
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+,
+{"name": "br|break",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "loop|while",
+"children":[
+{"name": "1|INT",
+"children":[
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LE|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "[]|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+,
+{"name": "Pivot|INT",
+"children":[
+]}
+]}
+,
+{"name": "br|break",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "cond|VOID",
+"children":[
+{"name": "if|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LS|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "j|INT",
+"children":[
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "j|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "else|VOID",
+"children":[
+{"name": "br|break",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "swap|VOID",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "QSort|VOID",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "QSort|VOID",
+"children":[
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+,
+{"name": "Right|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "else|VOID",
+"children":[
+{"name": "InsertionSort|VOID",
+"children":[
+{"name": "Left|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+"children":[
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+"children":[
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "Right|INT",
+"children":[
+]}
+,
+{"name": "Left|INT",
+"children":[
+]}
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+]}
+]}
+]}
+,
+{"name": "QuickSort|VOID",
+"children":[
+{"name": "N|INT",
+"children":[
+]}
+,
+{"name": "QSort|VOID",
+"children":[
+{"name": "0|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "SUB|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "N|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "main|INT",
+=======
+{"name": "fly|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "fly|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "N|INT",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+,
+{"name": "scanf|INT",
+"children":[
+{"name": "%d|LITERAL",
+"children":[
+]}
+,
+{"name": "N|INT",
+"children":[
+]}
+]}
+,
+{"name": "loop|for",
+"children":[
+{"name": "i|INT",
+"children":[
+{"name": "0|INT",
+"children":[
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LS|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "N|INT",
+"children":[
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "scanf|INT",
+"children":[
+{"name": "%d|LITERAL",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "i|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+,
+{"name": "temp|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "QuickSort|VOID",
+"children":[
+{"name": "N|INT",
+"children":[
+]}
+]}
+,
+{"name": "loop|for",
+"children":[
+{"name": "j|INT",
+"children":[
+{"name": "0|INT",
+"children":[
+]}
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "LS|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "N|INT",
+"children":[
+]}
+]}
+,
+{"name": "=|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"name": "ADD|INT",
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+=======
+{"name": "binary|INT",
+>>>>>>> parent of f7a5313 (delete old file)
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "1|INT",
+"children":[
+]}
+]}
+]}
+,
+{"name": "printf|INT",
+"children":[
+{"name": "%d\n|LITERAL",
+"children":[
+]}
+,
+{"name": "[]|INT",
+"children":[
+{"name": "j|INT",
+"children":[
+]}
+,
+{"name": "arr|",
+"children":[
+]}
+]}
+]}
+]}
+,
+{"name": "ret|INT",
+"children":[
+{"name": "0|INT",
+"children":[
+]}
+]}
+]}
+]}
